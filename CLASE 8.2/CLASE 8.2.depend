@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1587559962 source:c:\users\tuki\desktop\clase 8.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
